@@ -1,5 +1,5 @@
 # Repositorio do Desafio de Projeto Git GitHub da Dio
-Desafio de Projeto sobre GIT Github
+Repositorio criado para o Desafio de Projeto. 
 
 ##Links Uteis 
 [Sixtase basica Markdown](https://www.markdownguide.org/getting-started/)
